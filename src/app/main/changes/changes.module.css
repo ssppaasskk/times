@@ -1,0 +1,178 @@
+/* src/app/main/changes/changes.module.css */
+
+/* ============================================================
+   ОБЩИЕ СТИЛИ СТРАНИЦЫ
+   ============================================================ */
+
+.page {
+    padding: 2rem;
+    font-family: system-ui, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.title {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.empty {
+    color: #666;
+    padding: 1rem 0;
+}
+
+/* ============================================================
+   ТАБЛИЦА (большие экраны)
+   ============================================================ */
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 14px;
+}
+
+.th {
+    border: 1px solid #ccc;
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+    background: #f5f5f5;
+}
+
+.td {
+    border: 1px solid #ccc;
+    padding: 0.5rem 0.75rem;
+    vertical-align: top;
+}
+
+/* Колонка "Группа" — ровно по содержимому */
+.group {
+    white-space: nowrap;
+    width: 1%;
+}
+
+/* Заменённый предмет — зачёркнут */
+.old {
+    color: #888;
+    text-decoration: line-through;
+}
+
+/* Тип: замена */
+.kindReplaced {
+    color: #070;
+    font-weight: 600;
+}
+
+/* Тип: отмена */
+.kindCancelled {
+    color: #c00;
+    font-weight: 600;
+}
+
+/* Подписи для карточек — скрыты на больших экранах */
+.cellLabel {
+    display: none;
+}
+
+/* ============================================================
+   ПЛАНШЕТ (≤900px)
+   ============================================================ */
+
+@media (max-width: 900px) {
+    .page {
+        padding: 1.5rem 1rem;
+    }
+
+    .table {
+        font-size: 13px;
+    }
+
+    .th,
+    .td {
+        padding: 0.4rem 0.5rem;
+    }
+}
+
+/* ============================================================
+   ТЕЛЕФОН (≤640px): таблица → карточки
+   ============================================================ */
+
+@media (max-width: 640px) {
+    .page {
+        padding: 1rem 0.75rem;
+    }
+
+    .title {
+        font-size: 1.25rem;
+    }
+
+    /* Прячем шапку таблицы */
+    .table thead {
+        display: none;
+    }
+
+    /* Каждая строка — карточка */
+    .table,
+    .table tbody,
+    .table tr,
+    .table td {
+        display: block;
+        width: 100%;
+    }
+
+    .table tr {
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        margin-bottom: 1rem;
+        padding: 0.5rem;
+        background: #fff;
+    }
+
+    .table td {
+        border: none;
+        padding: 0.25rem 0.5rem;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 0.75rem;
+    }
+
+    /* Разделительная линия между строками карточки */
+    .table td + td {
+        border-top: 1px dashed #eee;
+    }
+
+    /* Подписи к полям — жирные, слева */
+    .cellLabel {
+        display: inline-block;
+        font-weight: 700;
+        color: #333;
+        font-size: 12px;
+        text-transform: uppercase;
+        flex-shrink: 0;
+        min-width: 80px;
+        text-align: left;
+    }
+
+    /* Значение — сразу после подписи, слева */
+    .table td > span:last-child {
+        text-align: left;
+    }
+
+    /* Колонка "Группа" — без фиксированной ширины */
+    .group {
+        width: auto;
+        white-space: normal;
+    }
+
+    /* Зачёркивание — по левому краю */
+    .old {
+        text-align: left;
+    }
+}
