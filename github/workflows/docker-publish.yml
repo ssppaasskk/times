@@ -1,1 +1,27 @@
+name: Build and Publish Docker Image
 
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'public/rs.xml'  # Триггер только при изменении rs.xml (или уберите paths для любого пуша)
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Log in to Docker Hub
+        uses: docker/login-action@v3
+        with:
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_TOKEN }}
+
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          push: true
+          tags: yourusername/timetable-app:latest
