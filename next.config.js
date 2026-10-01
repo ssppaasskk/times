@@ -5,7 +5,9 @@ const { PHASE_DEVELOPMENT_SERVER, PHASE_PRODUCTION_BUILD } = require("next/const
 require("./scripts/parse-schedule");
 require("./scripts/parse-changes");
 
-const nextConfig = {};
+const nextConfig = {
+    output: 'standalone',
+};
 
 module.exports = (phase) => {
     if (phase === PHASE_DEVELOPMENT_SERVER || phase === PHASE_PRODUCTION_BUILD) {
