@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'public/rs.xml'  # Триггер только при изменении rs.xml (или уберите paths для любого пуша)
+      - 'public/rs.xml'  # Триггер только при изменении rs.xml (или уб ерите paths для любого пуша)
 
 jobs:
   build-and-push:
