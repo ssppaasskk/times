@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourusername/timetable-app:latest
+          tags: spask/timetable-app:latest
