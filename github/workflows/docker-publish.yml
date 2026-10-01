@@ -5,6 +5,12 @@ on:
     branches: [ main ]
     paths:
       - 'public/rs.xml'  # Триггер только при изменении rs.xml (или уб ерите paths для любого пуша)
+      - 'next.config.js'
+      - 'scripts/**'
+      - 'src/**'
+      - 'package.json'
+      - 'Dockerfile'
+      - '.github/workflows/docker-publish.yml'
 
 jobs:
   build-and-push:
