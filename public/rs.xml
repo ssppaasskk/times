@@ -177,7 +177,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
+<Auditorium Number="304" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -185,7 +185,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
+<Auditorium Number="304" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -591,7 +591,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -803,7 +803,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Миронова Т С</Teacher>
-<Auditorium Number="429" Building="Главный корпус">
+<Auditorium Number="312" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -1951,7 +1951,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2893,7 +2893,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -2901,7 +2901,7 @@
 <Part N="1">
 <Name>Обществознание</Name>
 <Teacher>Крапивин И С</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="429" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3099,7 +3099,7 @@
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Крапивин И С</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="429" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3107,7 +3107,7 @@
 <Part N="1">
 <Name>Обществознание</Name>
 <Teacher>Крапивин И С</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+<Auditorium Number="429" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -3490,7 +3490,7 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4100,7 +4100,7 @@
 <Part N="1">
 <Name>Основы финансовой грамотности</Name>
 <Teacher>Тягульская Л А</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="522" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6040,7 +6040,7 @@
 <Part N="1">
 <Name>Основы финансовой грамотности</Name>
 <Teacher>Тягульская Л А</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="522" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6716,7 +6716,7 @@
 <Part N="1">
 <Name>Раздел 1 МДК.03.01.01 Управление деятельностью структурных подразделений</Name>
 <Teacher>Королев В Б</Teacher>
-<Auditorium Number="522" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7490,7 +7490,7 @@
 <Part N="1">
 <Name>Основы финансовой грамотности</Name>
 <Teacher>Тягульская Л А</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="522" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7656,7 +7656,7 @@
 <Part N="1">
 <Name>Математические методы решения прикладных профессиональных задач</Name>
 <Teacher>Дежинова Н А</Teacher>
-<Auditorium Number="312" Building="Главный корпус">
+<Auditorium Number="313" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7848,7 +7848,7 @@
 <Part N="1">
 <Name>МДК.05.01 Выполнение работ по профессии рабочего 101451 Исполнитель художественно-оформительских работ</Name>
 <Teacher>Кононова Е С</Teacher>
-<Auditorium Number="282." Building="Главный корпус">
+<Auditorium Number="310" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -7862,7 +7862,7 @@
 <Part N="1">
 <Name>МДК.05.01 Выполнение работ по профессии рабочего 101451 Исполнитель художественно-оформительских работ</Name>
 <Teacher>Кононова Е С</Teacher>
-<Auditorium Number="282." Building="Главный корпус">
+<Auditorium Number="310" Building="Главный корпус">
 </Auditorium>
 </Part>
 <Part N="2">
@@ -9054,18 +9054,26 @@
 </Part>
 </Lesson>
 <Lesson N="4">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.01.01.04 Раздел 4 Основы проектирования строительных конструкций</Name>
 <Teacher>Поденков В И</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+</Part>
+<Part N="1" Status="Замена">
+<Name>Психология общения</Name>
+<Teacher>Полякова Н Ю</Teacher>
+<Auditorium Number="451" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.01.01.04 Раздел 4 Основы проектирования строительных конструкций</Name>
 <Teacher>Поденков В И</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+</Part>
+<Part N="1" Status="Замена">
+<Name>МДК.02.02.01 Раздел 1 Технология и организация строительных процессов</Name>
+<Teacher>Осипова В М</Teacher>
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9417,8 +9425,6 @@
 <Part N="1" Status="Замена">
 <Name>МДК.01.01.03 Раздел 3 Архитектура зданий</Name>
 <Teacher>Степанова Т Э</Teacher>
-<Auditorium Number="451" Building="Главный корпус">
-</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -9555,32 +9561,6 @@
 <Name>МДК.02.01.02 Раздел 2 Строительные машины и средства малой механизации</Name>
 <Teacher>Осипова В М</Teacher>
 <Auditorium Number="510" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-</Day>
-<Day N="6">
-<Lesson N="2">
-<Part N="1">
-<Name>МДК.01.01.04 Раздел 4 Основы проектирования строительных конструкций</Name>
-<Teacher>Воробьева И В</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="3">
-<Part N="1">
-<Name>МДК.01.01.04 Раздел 4 Основы проектирования строительных конструкций</Name>
-<Teacher>Воробьева И В</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
-<Lesson N="4">
-<Part N="1">
-<Name>Психология общения</Name>
-<Teacher>Полякова Н Ю</Teacher>
-<Auditorium Number="451" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -10106,7 +10086,7 @@
 <Part N="2">
 <Name>МДК.02.03 Проектирование и моделирование инженерных сетей и коммуникаций</Name>
 <Teacher>Сироткина Я А</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
+<Auditorium Number="418." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -10120,7 +10100,7 @@
 <Part N="2">
 <Name>МДК.02.03 Проектирование и моделирование инженерных сетей и коммуникаций</Name>
 <Teacher>Сироткина Я А</Teacher>
-<Auditorium Number="421." Building="Главный корпус">
+<Auditorium Number="418." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -10286,7 +10266,7 @@
 <Part N="1">
 <Name>Экономика отрасли</Name>
 <Teacher>Тягульская Л А</Teacher>
-<Auditorium Number="521" Building="Главный корпус">
+<Auditorium Number="522" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -11736,7 +11716,7 @@
 <Part N="1">
 <Name>Экономика отрасли</Name>
 <Teacher>Королев В Б</Teacher>
-<Auditorium Number="522" Building="Главный корпус">
+<Auditorium Number="521" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
