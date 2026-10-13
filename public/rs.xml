@@ -824,7 +824,7 @@
 </Part>
 <Part N="2">
 <Name>Информатика</Name>
-<Teacher>Полуэктов В. В</Teacher>
+<Teacher>Полуэктов В В</Teacher>
 <Auditorium Number="421" Building="Главный корпус">
 </Auditorium>
 </Part>
@@ -3728,7 +3728,7 @@
 <Lesson N="3">
 <Part N="1">
 <Name>Основы алгоритмизации и программирования</Name>
-<Teacher>Полуэктов В. В</Teacher>
+<Teacher>Полуэктов В В</Teacher>
 <Auditorium Number="421" Building="Главный корпус">
 </Auditorium>
 </Part>
@@ -3810,7 +3810,7 @@
 <Lesson N="2">
 <Part N="1">
 <Name>Основы алгоритмизации и программирования</Name>
-<Teacher>Полуэктов В. В</Teacher>
+<Teacher>Полуэктов В В</Teacher>
 </Part>
 <Part N="2">
 <Name>Основы алгоритмизации и программирования</Name>
@@ -7028,7 +7028,7 @@
 <Lesson N="1">
 <Part N="1">
 <Name>Основы алгоритмизации и программирования</Name>
-<Teacher>Полуэктов В. В</Teacher>
+<Teacher>Полуэктов В В</Teacher>
 <Auditorium Number="418." Building="Главный корпус">
 </Auditorium>
 </Part>
@@ -7124,7 +7124,7 @@
 <Lesson N="3">
 <Part N="1">
 <Name>Основы алгоритмизации и программирования</Name>
-<Teacher>Полуэктов В. В</Teacher>
+<Teacher>Полуэктов В В</Teacher>
 </Part>
 <Part N="2">
 <Name>Основы алгоритмизации и программирования</Name>
