@@ -10559,6 +10559,22 @@
 </Auditorium>
 </Part>
 </Lesson>
+<Lesson N="4">
+<Part N="1" Status="Замена">
+<Name>Иностранный язык в профессиональной деятельности</Name>
+<Teacher>Комовкина Р А</Teacher>
+</Part>
+<Part N="2" Status="Замена">
+<Name>Иностранный язык в профессиональной деятельности</Name>
+<Teacher>Кудрявцева Л Н</Teacher>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1" Status="Замена">
+<Name>МДК.01.05.01 Раздел 1. Конструкции зданий и сооружений</Name>
+<Teacher>Бегий О И</Teacher>
+</Part>
+</Lesson>
 </Day>
 <Day N="5">
 <Lesson N="3">
@@ -10566,6 +10582,22 @@
 <Name>МДК.02.03 Контроль качества проектной документации и внесение изменений</Name>
 <Teacher>Пожарская В В</Teacher>
 <Auditorium Number="314" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1">
+<Name>МДК.01.03.04 Раздел 4. Проектирование интерьера жилого здания</Name>
+<Teacher>Пономарева А С</Teacher>
+<Auditorium Number="141" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="5">
+<Part N="1">
+<Name>МДК.01.03.04 Раздел 4. Проектирование интерьера жилого здания</Name>
+<Teacher>Пономарева А С</Teacher>
+<Auditorium Number="141" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
