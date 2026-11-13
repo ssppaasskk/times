@@ -149,12 +149,16 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Миронова Т С</Teacher>
+<Auditorium Number="221" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Миронова Т С</Teacher>
+<Auditorium Number="221" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -375,6 +379,8 @@
 <Part N="1">
 <Name>Основы безопасности и защиты Родины</Name>
 <Teacher>Веселова М Н</Teacher>
+<Auditorium Number="213" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -559,6 +565,8 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Миронова Т С</Teacher>
+<Auditorium Number="221" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -733,6 +741,8 @@
 <Part N="1">
 <Name>Основы безопасности и защиты Родины</Name>
 <Teacher>Колтыгина Е В</Teacher>
+<Auditorium Number="321" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -747,6 +757,8 @@
 <Part N="1">
 <Name>МАТЕМАТИКА</Name>
 <Teacher>Миронова Т С</Teacher>
+<Auditorium Number="221" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -909,16 +921,22 @@
 <Part N="1">
 <Name>Основы безопасности и защиты Родины</Name>
 <Teacher>Колтыгина Е В</Teacher>
+<Auditorium Number="321" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>Иностранный язык</Name>
 <Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="209" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностранный язык</Name>
 <Teacher>Мурашко Ю В</Teacher>
+<Auditorium Number="310" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -1091,6 +1109,8 @@
 <Part N="1">
 <Name>Основы безопасности и защиты Родины</Name>
 <Teacher>Веселова М Н</Teacher>
+<Auditorium Number="213" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -1255,10 +1275,14 @@
 <Part N="1">
 <Name>Иностранный язык</Name>
 <Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="209" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностранный язык</Name>
 <Teacher>Мурашко Ю В</Teacher>
+<Auditorium Number="310" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -1473,6 +1497,8 @@
 <Part N="1">
 <Name>Основы безопасности и защиты Родины</Name>
 <Teacher>Колтыгина Е В</Teacher>
+<Auditorium Number="321" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -2009,16 +2035,22 @@
 <Part N="1">
 <Name>Иностранный язык</Name>
 <Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="209" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностранный язык</Name>
 <Teacher>Мурашко Ю В</Teacher>
+<Auditorium Number="310" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Основы безопасности и защиты Родины</Name>
 <Teacher>Веселова М Н</Teacher>
+<Auditorium Number="213" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -2377,6 +2409,8 @@
 <Part N="1">
 <Name>Основы безопасности и защиты Родины</Name>
 <Teacher>Краснодембский С Е</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -2581,6 +2615,8 @@
 <Part N="1">
 <Name>Основы безопасности и защиты Родины</Name>
 <Teacher>Краснодембский С Е</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -2759,16 +2795,22 @@
 <Part N="1">
 <Name>ИСТОРИЯ</Name>
 <Teacher>Косяченко Н С</Teacher>
+<Auditorium Number="351" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Иностранный язык</Name>
 <Teacher>Кузнецова Е Р</Teacher>
+<Auditorium Number="209" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Иностранный язык</Name>
 <Teacher>Мурашко Ю В</Teacher>
+<Auditorium Number="310" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -3311,6 +3353,8 @@
 <Part N="1">
 <Name>Основы безопасности и защиты Родины</Name>
 <Teacher>Веселова М Н</Teacher>
+<Auditorium Number="213" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -3919,6 +3963,8 @@
 <Part N="1">
 <Name>МДК.06.01Выполнение работ по профессии рабочего 102031 Маляр строительный</Name>
 <Teacher>Кармацкая Н Н</Teacher>
+<Auditorium Number="521" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -4079,10 +4125,14 @@
 <Part N="1">
 <Name>Техническое сопровождение информационного моделирования зданий</Name>
 <Teacher>Перфилов А В</Teacher>
+<Auditorium Number="421" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Техническое сопровождение информационного моделирования зданий</Name>
 <Teacher>Сироткина Я А</Teacher>
+<Auditorium Number="421." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -4097,7 +4147,7 @@
 <Part N="1">
 <Name>Проектирование многоэтажных зданий</Name>
 <Teacher>Поденков В И</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="509" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4105,7 +4155,7 @@
 <Part N="1">
 <Name>Проектирование многоэтажных зданий</Name>
 <Teacher>Поденков В И</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="509" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -4338,12 +4388,16 @@
 <Part N="1">
 <Name>История архитектуры</Name>
 <Teacher>Косяченко Н С</Teacher>
+<Auditorium Number="351" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>Безопасность жизнедеятельности</Name>
 <Teacher>Краснодембский С Е</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -4528,18 +4582,24 @@
 <Part N="1">
 <Name>Безопасность жизнедеятельности</Name>
 <Teacher>Краснодембский С Е</Teacher>
+<Auditorium Number="215" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Типология зданий</Name>
 <Teacher>Гребеникова Л А</Teacher>
+<Auditorium Number="330" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>История архитектуры</Name>
 <Teacher>Косяченко Н С</Teacher>
+<Auditorium Number="351" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -4954,18 +5014,24 @@
 <Part N="1">
 <Name>История архитектуры</Name>
 <Teacher>Косяченко Н С</Teacher>
+<Auditorium Number="351" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>Основы геодезии</Name>
 <Teacher>Коваленко М А</Teacher>
+<Auditorium Number="410" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Типология зданий</Name>
 <Teacher>Колодина Н Н</Teacher>
+<Auditorium Number="335" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -5130,12 +5196,16 @@
 <Part N="1">
 <Name>Основы геодезии</Name>
 <Teacher>Коваленко М А</Teacher>
+<Auditorium Number="410" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>Типология зданий</Name>
 <Teacher>Гребеникова Л А</Teacher>
+<Auditorium Number="330" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -5350,6 +5420,8 @@
 <Part N="1">
 <Name>МДК.01.02 Основы градостроительного проектирования с элементами благоустройства</Name>
 <Teacher>Глазова О С</Teacher>
+<Auditorium Number="335" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -5594,6 +5666,8 @@
 <Part N="1">
 <Name>МДК.01.02 Основы градостроительного проектирования с элементами благоустройства</Name>
 <Teacher>Глазова О С</Teacher>
+<Auditorium Number="335" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -5956,9 +6030,15 @@
 </Day>
 <Day N="6">
 <Lesson N="1">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.06.01Выполнение работ по профессии рабочего 102031 Маляр строительный</Name>
 <Teacher>Кармацкая Н Н</Teacher>
+</Part>
+<Part N="1" Status="Замена">
+<Name>Основы финансовой грамотности</Name>
+<Teacher>Петрова Е А</Teacher>
+<Auditorium Number="429" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -5970,10 +6050,14 @@
 </Part>
 </Lesson>
 <Lesson N="3">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>Техническая механика</Name>
 <Teacher>Исламшина Н С</Teacher>
-<Auditorium Number="213" Building="Главный корпус">
+</Part>
+<Part N="1" Status="Замена">
+<Name>МДК.01.01.02 Раздел 2 Строительные материалы и изделия</Name>
+<Teacher>Сафронова С В</Teacher>
+<Auditorium Number="216" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6322,10 +6406,14 @@
 </Day>
 <Day N="6">
 <Lesson N="3">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>Математические методы решения прикладных профессиональных задач</Name>
 <Teacher>Пономарев Г Г</Teacher>
-<Auditorium Number="304" Building="Главный корпус">
+</Part>
+<Part N="1" Status="Замена">
+<Name>МДК.02.02.02 Раздел 2 Применение геопространственных технологий в строительстве</Name>
+<Teacher>Коваленко М А</Teacher>
+<Auditorium Number="410" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6333,12 +6421,20 @@
 <Part N="1">
 <Name>МДК.02.02.02 Раздел 2 Применение геопространственных технологий в строительстве</Name>
 <Teacher>Коваленко М А</Teacher>
+<Auditorium Number="410" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.02.02.02 Раздел 2 Применение геопространственных технологий в строительстве</Name>
 <Teacher>Коваленко М А</Teacher>
+</Part>
+<Part N="1" Status="Замена">
+<Name>Основы финансовой грамотности</Name>
+<Teacher>Петрова Е А</Teacher>
+<Auditorium Number="429" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -6518,10 +6614,14 @@
 </Day>
 <Day N="6">
 <Lesson N="3">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.01.01.02 Раздел 2 Строительные материалы и изделия</Name>
 <Teacher>Сафронова С В</Teacher>
-<Auditorium Number="216" Building="Главный корпус">
+</Part>
+<Part N="1" Status="Замена">
+<Name>Математические методы решения прикладных профессиональных задач</Name>
+<Teacher>Пономарев Г Г</Teacher>
+<Auditorium Number="304" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6688,6 +6788,8 @@
 <Part N="1">
 <Name>Раздел 1 МДК.03.01.01 Управление деятельностью структурных подразделений</Name>
 <Teacher>Королев В Б</Teacher>
+<Auditorium Number="520" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -6842,7 +6944,7 @@
 <Part N="1">
 <Name>МДК.01.01.03 Раздел 3 Устройство систем отопления</Name>
 <Teacher>Назаров В А</Teacher>
-<Auditorium Number="506" Building="Главный корпус">
+<Auditorium Number="503" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6850,7 +6952,7 @@
 <Part N="1">
 <Name>МДК.01.01.01 Раздел 1 Устройство систем водоснабжения и водоотведения</Name>
 <Teacher>Назаров В А</Teacher>
-<Auditorium Number="506" Building="Главный корпус">
+<Auditorium Number="503" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -6858,6 +6960,8 @@
 <Part N="1">
 <Name>История России</Name>
 <Teacher>Косяченко Н С</Teacher>
+<Auditorium Number="351" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -7000,30 +7104,42 @@
 <Part N="1">
 <Name>Прикладные компьютерные программы в профессиональной деятельности</Name>
 <Teacher>Перфилов А В</Teacher>
+<Auditorium Number="421" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Прикладные компьютерные программы в профессиональной деятельности</Name>
 <Teacher>Сироткина Я А</Teacher>
+<Auditorium Number="421." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Прикладные компьютерные программы в профессиональной деятельности</Name>
 <Teacher>Перфилов А В</Teacher>
+<Auditorium Number="421" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Прикладные компьютерные программы в профессиональной деятельности</Name>
 <Teacher>Сироткина Я А</Teacher>
+<Auditorium Number="421." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>Прикладные компьютерные программы в профессиональной деятельности</Name>
 <Teacher>Перфилов А В</Teacher>
+<Auditorium Number="421" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>Прикладные компьютерные программы в профессиональной деятельности</Name>
 <Teacher>Сироткина Я А</Teacher>
+<Auditorium Number="421." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -7218,7 +7334,7 @@
 <Part N="1">
 <Name>Проектирование многоэтажных зданий 1</Name>
 <Teacher>Поденков В И</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="509" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -7577,6 +7693,8 @@
 <Part N="1">
 <Name>МДК.05.01 Выполнение работ по профессии рабочего 101451 Исполнитель художественно-оформительских работ</Name>
 <Teacher>Кононова Е С</Teacher>
+<Auditorium Number="205" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>МДК.05.01 Выполнение работ по профессии рабочего 101451 Исполнитель художественно-оформительских работ</Name>
@@ -7587,6 +7705,8 @@
 <Part N="1">
 <Name>МДК.05.01 Выполнение работ по профессии рабочего 101451 Исполнитель художественно-оформительских работ</Name>
 <Teacher>Кононова Е С</Teacher>
+<Auditorium Number="205" Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>МДК.05.01 Выполнение работ по профессии рабочего 101451 Исполнитель художественно-оформительских работ</Name>
@@ -7777,18 +7897,24 @@
 <Part N="1">
 <Name>МДК.01.03.01 Раздел 1. Конструкции гражданских и промышленных зданий</Name>
 <Teacher>Дмитриева А А</Teacher>
+<Auditorium Number="451" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МДК.01.03.01 Раздел 1. Конструкции гражданских и промышленных зданий</Name>
 <Teacher>Дмитриева А А</Teacher>
+<Auditorium Number="451" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>МДК.01.03.01 Раздел 1. Конструкции гражданских и промышленных зданий</Name>
 <Teacher>Дмитриева А А</Teacher>
+<Auditorium Number="451" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -8439,12 +8565,16 @@
 <Part N="1">
 <Name>МДК.01.02 Основы градостроительного проектирования с элементами благоустройства</Name>
 <Teacher>Арыку А И</Teacher>
+<Auditorium Number="330" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>МДК.01.02 Основы градостроительного проектирования с элементами благоустройства</Name>
 <Teacher>Арыку А И</Teacher>
+<Auditorium Number="330" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -8779,6 +8909,8 @@
 <Part N="1">
 <Name>Психология общения</Name>
 <Teacher>Полякова Н Ю</Teacher>
+<Auditorium Number="454" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -8919,6 +9051,8 @@
 <Part N="1">
 <Name>Психология общения</Name>
 <Teacher>Полякова Н Ю</Teacher>
+<Auditorium Number="454" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -9228,24 +9362,38 @@
 </Day>
 <Day N="6">
 <Lesson N="3">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.03.01.02 Раздел 2. Правовое обеспечение профессиональной деятельности</Name>
 <Teacher>Есаян Г Г</Teacher>
-<Auditorium Number="313" Building="Главный корпус">
+</Part>
+<Part N="1" Status="Замена">
+<Name>МДК.02.02.01 Раздел 1 Технология и организация строительных процессов</Name>
+<Teacher>Смирнова К В</Teacher>
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>Психология общения</Name>
 <Teacher>Полякова Н Ю</Teacher>
 </Part>
+<Part N="1" Status="Замена">
+<Name>МДК.02.02.01 Раздел 1 Технология и организация строительных процессов</Name>
+<Teacher>Смирнова К В</Teacher>
+<Auditorium Number="519" Building="Главный корпус">
+</Auditorium>
+</Part>
 </Lesson>
 <Lesson N="5">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>Безопасность жизнедеятельности</Name>
 <Teacher>Тесленко И В</Teacher>
-<Auditorium Number="341" Building="Главный корпус">
+</Part>
+<Part N="1" Status="Замена">
+<Name>МДК.02.02.01 Раздел 1 Технология и организация строительных процессов</Name>
+<Teacher>Смирнова К В</Teacher>
+<Auditorium Number="519" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9383,6 +9531,8 @@
 <Part N="1">
 <Name>МДК.02.02.01 Раздел 1 Технология и организация строительных процессов</Name>
 <Teacher>Абрамов Ф М</Teacher>
+<Auditorium Number="220" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="2">
@@ -9394,9 +9544,23 @@
 </Part>
 </Lesson>
 <Lesson N="3">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.02.02.01 Раздел 1 Технология и организация строительных процессов</Name>
 <Teacher>Абрамов Ф М</Teacher>
+</Part>
+<Part N="1" Status="Замена">
+<Name>МДК.03.01.02 Раздел 2. Правовое обеспечение профессиональной деятельности</Name>
+<Teacher>Есаян Г Г</Teacher>
+<Auditorium Number="313" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
+<Lesson N="4">
+<Part N="1" Status="Замена">
+<Name>Психология общения</Name>
+<Teacher>Полякова Н Ю</Teacher>
+<Auditorium Number="454" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -9726,18 +9890,19 @@
 </Day>
 <Day N="6">
 <Lesson N="3">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.02.03 Проектирование и моделирование инженерных сетей и коммуникаций</Name>
 <Teacher>Поденкова А А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
-</Auditorium>
+</Part>
+<Part N="1" Status="Замена">
+<Teacher>Отменен</Teacher>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МДК.02.03 Проектирование и моделирование инженерных сетей и коммуникаций</Name>
 <Teacher>Поденкова А А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="418." Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9745,7 +9910,13 @@
 <Part N="1">
 <Name>МДК.02.03 Проектирование и моделирование инженерных сетей и коммуникаций</Name>
 <Teacher>Поденкова А А</Teacher>
-<Auditorium Number="503" Building="Главный корпус">
+<Auditorium Number="418." Building="Главный корпус">
+</Auditorium>
+</Part>
+<Part N="2">
+<Name>МДК.02.03 Проектирование и моделирование инженерных сетей и коммуникаций</Name>
+<Teacher>Сироткина Я А</Teacher>
+<Auditorium Number="418" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9887,7 +10058,7 @@
 <Part N="1">
 <Name>Проектирование многоэтажных зданий</Name>
 <Teacher>Поденков В И</Teacher>
-<Auditorium Number="511" Building="Главный корпус">
+<Auditorium Number="509" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -9895,12 +10066,16 @@
 <Part N="1">
 <Name>МДК.02.01 Проектирование и моделирование архитектурных решений</Name>
 <Teacher>Шимановский В В</Teacher>
+<Auditorium Number="435" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
 <Part N="1">
 <Name>МДК.02.01 Проектирование и моделирование архитектурных решений</Name>
 <Teacher>Шимановский В В</Teacher>
+<Auditorium Number="435" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -10235,6 +10410,8 @@
 <Part N="1">
 <Name>МДК.01.03.03 Раздел 3. Проектирование многоквартирного жилого здания</Name>
 <Teacher>Глазова О С</Teacher>
+<Auditorium Number="314." Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>МДК.01.03.03 Раздел 3. Проектирование многоквартирного жилого здания</Name>
@@ -10247,6 +10424,8 @@
 <Part N="1">
 <Name>МДК.01.03.03 Раздел 3. Проектирование многоквартирного жилого здания</Name>
 <Teacher>Глазова О С</Teacher>
+<Auditorium Number="314." Building="Главный корпус">
+</Auditorium>
 </Part>
 <Part N="2">
 <Name>МДК.01.03.03 Раздел 3. Проектирование многоквартирного жилого здания</Name>
@@ -10309,14 +10488,6 @@
 </Lesson>
 </Day>
 <Day N="2">
-<Lesson N="2">
-<Part N="1" Status="Замена">
-<Name>МДК.01.03.04 Раздел 4 Основы расчета и конструирования несущих элементов здания</Name>
-<Teacher>Воробьева И В</Teacher>
-<Auditorium Number="455" Building="Главный корпус">
-</Auditorium>
-</Part>
-</Lesson>
 <Lesson N="3">
 <Part N="1">
 <Name>Основы экономики архитектурного проектирования</Name>
@@ -10419,6 +10590,8 @@
 <Part N="1">
 <Name>МДК.01.05.01 Раздел 1. Конструкции зданий и сооружений</Name>
 <Teacher>Дмитриева А А</Teacher>
+<Auditorium Number="451" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -10445,6 +10618,8 @@
 <Part N="2">
 <Name>МДК.01.03.03 Раздел 3. Проектирование многоквартирного жилого здания</Name>
 <Teacher>Колодина Н Н</Teacher>
+<Auditorium Number="348." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -10457,6 +10632,8 @@
 <Part N="2">
 <Name>МДК.01.03.03 Раздел 3. Проектирование многоквартирного жилого здания</Name>
 <Teacher>Колодина Н Н</Teacher>
+<Auditorium Number="348." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -10615,6 +10792,8 @@
 <Part N="1">
 <Name>Основы строительного производства</Name>
 <Teacher>Кармацкая Н Н</Teacher>
+<Auditorium Number="521" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="4">
@@ -10627,6 +10806,8 @@
 <Part N="2">
 <Name>МДК.01.03.03 Раздел 3. Проектирование многоквартирного жилого здания</Name>
 <Teacher>Гребеникова Л А</Teacher>
+<Auditorium Number="314." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
@@ -10639,6 +10820,8 @@
 <Part N="2">
 <Name>МДК.01.03.03 Раздел 3. Проектирование многоквартирного жилого здания</Name>
 <Teacher>Гребеникова Л А</Teacher>
+<Auditorium Number="314." Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -10787,10 +10970,20 @@
 </Lesson>
 </Day>
 <Day N="6">
+<Lesson N="1">
+<Part N="1" Status="Замена">
+<Name>Основы строительного производства</Name>
+<Teacher>Кармацкая Н Н</Teacher>
+<Auditorium Number="521" Building="Главный корпус">
+</Auditorium>
+</Part>
+</Lesson>
 <Lesson N="2">
 <Part N="1">
 <Name>Основы строительного производства</Name>
 <Teacher>Кармацкая Н Н</Teacher>
+<Auditorium Number="521" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="3">
@@ -10802,15 +10995,21 @@
 </Part>
 </Lesson>
 <Lesson N="4">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.01.03.04 Раздел 4. Проектирование интерьера жилого здания</Name>
 <Teacher>Отинова Д А</Teacher>
 </Part>
+<Part N="1" Status="Замена">
+<Teacher>Отменен</Teacher>
+</Part>
 </Lesson>
 <Lesson N="5">
-<Part N="1">
+<Part N="1" Status="Заменён">
 <Name>МДК.01.03.04 Раздел 4. Проектирование интерьера жилого здания</Name>
 <Teacher>Отинова Д А</Teacher>
+</Part>
+<Part N="1" Status="Замена">
+<Teacher>Отменен</Teacher>
 </Part>
 </Lesson>
 </Day>
@@ -11265,12 +11464,16 @@
 <Part N="1">
 <Name>МДК.04.02 Реконструкция зданий и сооружений</Name>
 <Teacher>Абрамов Ф М</Teacher>
+<Auditorium Number="405" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>МДК.04.02 Реконструкция зданий и сооружений</Name>
 <Teacher>Абрамов Ф М</Teacher>
+<Auditorium Number="405" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -11422,12 +11625,16 @@
 <Part N="1">
 <Name>Экономика отрасли</Name>
 <Teacher>Королев В Б</Teacher>
+<Auditorium Number="520" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 <Lesson N="5">
 <Part N="1">
 <Name>МДК.04.01.01 Раздел 1 Техническая эксплуатация зданий и сооружений</Name>
 <Teacher>Кармацкая Н Н</Teacher>
+<Auditorium Number="521" Building="Главный корпус">
+</Auditorium>
 </Part>
 </Lesson>
 </Day>
@@ -11578,7 +11785,7 @@
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Синенко А Д</Teacher>
-<Auditorium Number="117" Building="Главный корпус">
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -11586,7 +11793,7 @@
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Синенко А Д</Teacher>
-<Auditorium Number="117" Building="Главный корпус">
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
@@ -11594,7 +11801,7 @@
 <Part N="1">
 <Name>МДК.01.02 Проект производства работ</Name>
 <Teacher>Синенко А Д</Teacher>
-<Auditorium Number="117" Building="Главный корпус">
+<Auditorium Number="510" Building="Главный корпус">
 </Auditorium>
 </Part>
 </Lesson>
